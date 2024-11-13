@@ -1,0 +1,148 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "React Conference 2024",
+      "description": "A conference about React and web development.",
+      "category": "Conference",
+      "availableSeats": 100,
+      "price": 199
+    },
+    {
+      "id": 2,
+      "title": "Music Concert",
+      "description": "An amazing live music performance.",
+      "category": "Concert",
+      "availableSeats": 50,
+      "price": 50
+    },
+    {
+      "id": 3,
+      "title": "Art Exhibition",
+      "description": "Showcasing the works of modern artists.",
+      "category": "Exhibition",
+      "availableSeats": 30,
+      "price": 20
+    },
+    {
+      "id": 4,
+      "title": "Tech Startup Meetup",
+      "description": "Networking event for startup founders.",
+      "category": "Meetup",
+      "availableSeats": 75,
+      "price": 15
+    },
+    {
+      "id": 5,
+      "title": "Digital Marketing Workshop",
+      "description": "Learn the latest digital marketing strategies.",
+      "category": "Workshop",
+      "availableSeats": 40,
+      "price": 120
+    },
+    {
+      "id": 6,
+      "title": "Yoga Retreat",
+      "description": "A weekend retreat to unwind and relax.",
+      "category": "Wellness",
+      "availableSeats": 20,
+      "price": 250
+    },
+    {
+      "id": 7,
+      "title": "Stand-Up Comedy Night",
+      "description": "Laugh out loud with the best comedians.",
+      "category": "Comedy",
+      "availableSeats": 100,
+      "price": 30
+    },
+    {
+      "id": 8,
+      "title": "Food Festival",
+      "description": "Taste dishes from around the world.",
+      "category": "Festival",
+      "availableSeats": 200,
+      "price": 10
+    },
+    {
+      "id": 9,
+      "title": "Blockchain Summit",
+      "description": "Discuss the future of blockchain technology.",
+      "category": "Conference",
+      "availableSeats": 80,
+      "price": 300
+    },
+    {
+      "id": 10,
+      "title": "Photography Workshop",
+      "description": "Master the art of photography.",
+      "category": "Workshop",
+      "availableSeats": 15,
+      "price": 100
+    },
+    {
+      "id": 11,
+      "title": "Fashion Show",
+      "description": "A glamorous night showcasing new fashion trends.",
+      "category": "Fashion",
+      "availableSeats": 120,
+      "price": 80
+    },
+    {
+      "id": 12,
+      "title": "Entrepreneurship Summit",
+      "description": "Insights from successful entrepreneurs.",
+      "category": "Summit",
+      "availableSeats": 150,
+      "price": 200
+    },
+    {
+      "id": 13,
+      "title": "Health & Wellness Expo",
+      "description": "Explore health products and wellness trends.",
+      "category": "Expo",
+      "availableSeats": 100,
+      "price": 50
+    },
+    {
+      "id": 14,
+      "title": "Startup Pitch Event",
+      "description": "Watch innovative startups pitch their ideas.",
+      "category": "Pitch",
+      "availableSeats": 60,
+      "price": 40
+    },
+    {
+      "id": 15,
+      "title": "Food Photography Workshop",
+      "description": "Learn the art of food photography.",
+      "category": "Workshop",
+      "availableSeats": 25,
+      "price": 90
+    },
+    {
+      "id": 16,
+      "title": "Tech Job Fair",
+      "description": "Meet recruiters and hiring companies in tech.",
+      "category": "Fair",
+      "availableSeats": 150,
+      "price": 0
+    },
+    {
+      "id": 17,
+      "title": "Charity Auction Gala",
+      "description": "Bid on exclusive items for a good cause.",
+      "category": "Gala",
+      "availableSeats": 80,
+      "price": 150
+    },
+    {
+      "id": 18,
+      "title": "Film Festival",
+      "description": "Watch indie films from around the world.",
+      "category": "Festival",
+      "availableSeats": 120,
+      "price": 25
+    }
+  ]
+}

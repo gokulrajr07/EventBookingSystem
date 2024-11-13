@@ -1,0 +1,20 @@
+
+body {
+  background-color: #0d2135ce; 
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.h1 {
+  font-size: 3.5em; 
+  color: #ffffff;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgb(255, 0, 0); 
+}
